@@ -1,9 +1,5 @@
 # ex_qbootctl
 
-> ### ⚠️ Very early work — built for a workshop, not for production
->
-> Written for the **Goatmire Elixir workshop** on running Nerves on Fairphone 3 hardware. There are no stability guarantees and APIs will change without notice.
-
 Elixir wrapper around [`qbootctl`](https://github.com/linux-msm/qbootctl),
 the userspace A/B-slot HAL for Qualcomm devices.
 
